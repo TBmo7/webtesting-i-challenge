@@ -1,0 +1,23 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "webtesting 1 challenge",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBmo7/webtesting-i-challenge.git"
+  },
+  "author": "Troy Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBmo7/webtesting-i-challenge/issues"
+  },
+  "homepage": "https://github.com/TBmo7/webtesting-i-challenge#readme"
+}
